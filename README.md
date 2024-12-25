@@ -12,31 +12,31 @@ Along with each problem, you’ll find its corresponding solution, clearly expla
 ## 📂 Topics Covered
 Here are some of the areas we’ll explore:
 
-# 🧮 Basic Syntax: Variables, loops, and conditions.
-# 📊 Data Structures: Lists, dictionaries, tuples, and sets.
-# 🔨 Functions: Writing and using reusable functions.
-# 📂 File Handling: Reading from and writing to files.
-# 🧑‍💻 Object-Oriented Programming (OOP): Classes, objects, and inheritance.
-# 📦 Modules and Libraries: Using Python’s rich ecosystem.
-# 🚀 Advanced Topics: Recursion, decorators, generators, and more.
-# 🤔 Who Is This For?
+ 🧮 Basic Syntax: Variables, loops, and conditions.
+ 📊 Data Structures: Lists, dictionaries, tuples, and sets.
+ 🔨 Functions: Writing and using reusable functions.
+ 📂 File Handling: Reading from and writing to files.
+ 🧑‍💻 Object-Oriented Programming (OOP): Classes, objects, and inheritance.
+ 📦 Modules and Libraries: Using Python’s rich ecosystem.
+ 🚀 Advanced Topics: Recursion, decorators, generators, and more.
+ 🤔 Who Is This For?
 ## Whether you’re:
 
-# 📖 A student learning Python for the first time,
-# 💻 A developer wanting to strengthen your problem-solving skills, or
-# 🎯 Someone preparing for technical interviews,
+ 📖 A student learning Python for the first time,
+ 💻 A developer wanting to strengthen your problem-solving skills, or
+ 🎯 Someone preparing for technical interviews,
 
 ## This repository has something for everyone! 🌍
 
-# 🛠️ How to Use This Repository
-# 🔎 Explore Problems: Browse the problems in the repository. They are organized by difficulty level and topic.
-# 💡 Try to Solve Them: Before looking at the solution, try solving the problem yourself.
-# 📘 Understand the Solution: Study the provided solution to learn different approaches and best practices.
-# 🔥 Practice Regularly: Consistent practice is the key to mastering Python.
-# 💬 Contribute and Connect
+ 🛠️ How to Use This Repository
+ 🔎 Explore Problems: Browse the problems in the repository. They are organized by difficulty level and topic.
+ 💡 Try to Solve Them: Before looking at the solution, try solving the problem yourself.
+ 📘 Understand the Solution: Study the provided solution to learn different approaches and best practices.
+ 🔥 Practice Regularly: Consistent practice is the key to mastering Python.
+ 💬 Contribute and Connect
 ### Feel free to:
 
-# ⭐ Star this repository to stay updated.
-# 📨 Share your thoughts or ask questions in the issues section.
-# 🤝 Contribute by submitting your own problems and solutions!
+ ⭐ Star this repository to stay updated.
+ 📨 Share your thoughts or ask questions in the issues section.
+ 🤝 Contribute by submitting your own problems and solutions!
 ### Let’s learn and grow together. 🌱
